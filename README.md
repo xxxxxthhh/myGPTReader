@@ -2,6 +2,7 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Actions](https://github.com/madawei2699/myGPTReader/actions/workflows/fly.yml/badge.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/madawei2699/myGPTReader.svg)](https://github.com/madawei2699/myGPTReader/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/madawei2699/myGPTReader.svg)](https://github.com/madawei2699/myGPTReader/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
@@ -20,15 +21,20 @@
 
 ## 📝 Table of Contents
 
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Main Features](#main_features)
-- [How to Install](#how_to_install)
-- [TODO](docs/TODO.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
-- [Reference Links](#reference_links)
-- [Star History](#star_history)
+- [📝 Table of Contents](#-table-of-contents)
+- [🧐 About ](#-about-)
+- [🏁 Getting Started ](#-getting-started-)
+- [🔥 Main Features ](#-main-features-)
+  - [📖 Website read with myGPTReader](#-website-read-with-mygptreader)
+  - [📚 Document read with myGPTReader](#-document-read-with-mygptreader)
+  - [🗣️ Voice chat with myGPTReader](#️-voice-chat-with-mygptreader)
+  - [💬 Ask myGPTReader anything](#-ask-mygptreader-anything)
+  - [🔥 Hot News Today](#-hot-news-today)
+- [How to Install ](#how-to-install-)
+- [✍️ Authors ](#️-authors-)
+- [🎉 Acknowledgements ](#-acknowledgements-)
+- [Reference Links ](#reference-links-)
+- [Star History ](#star-history-)
 
 ## 🧐 About <a name = "about"></a>
 
@@ -55,25 +61,29 @@ Please join this [Slack channel](https://slack-redirect.i365.tech/) with more th
 
 Use myGPTReader to quickly read and understand any web content through conversations, even videos (currently only YouTube videos with subtitles are supported).
 
-![Web read with myGPTReader](https://user-images.githubusercontent.com/2446612/228726895-3c789d54-1b15-4d8e-8022-7bf0b93185ff.gif)
+![Web read with myGPTReader - web page](https://user-images.githubusercontent.com/2446612/229781090-2be95df8-5197-4209-85a0-3753582f9b4e.gif)
+![Web read with myGPTReader - video](https://user-images.githubusercontent.com/2446612/229781120-9fb9d94f-e545-40c1-a947-4a0131594911.gif)
+
 
 ### 📚 Document read with myGPTReader
 
 Use myGPTReader to quickly read the content of any file, supporting eBooks, PDF, DOCX, TXT, and Markdown.
 
-![Document read with myGPTReader](https://user-images.githubusercontent.com/2446612/228726930-e623c5f2-5cb5-4d93-9ffc-fda5c722a910.gif)
+![Document read with myGPTReader](https://user-images.githubusercontent.com/2446612/229781163-cffd2d8b-4ee7-47b5-b970-37dd008c498b.gif)
+
 
 ### 🗣️ Voice chat with myGPTReader
 
 Practice your foreign language by speaking with your voice to myGPTReader, which can be your personal tutor and supports Chinese, English, German, and Japanese.
 
-![Voice chat with myGPTReader](https://user-images.githubusercontent.com/2446612/228726952-8dc02828-c540-4cf8-9aff-5b1e81a969d0.gif)
+![Voice chat with myGPTReader](https://user-images.githubusercontent.com/2446612/229781224-0267b06a-220a-488a-bc08-6e4d02cd6552.gif)
+
 
 ### 💬 Ask myGPTReader anything
 
 A large number of prompt templates are built in, use them for better conversations with chatGPT.
 
-![Ask myGPTReader anything](https://user-images.githubusercontent.com/2446612/228726979-15548dc5-2b9a-4fa2-bd52-d2920ab4f81b.gif)
+![Ask myGPTReader anything](https://user-images.githubusercontent.com/2446612/229781297-a9404652-8f6c-4443-a645-e99bf50db7b1.gif)
 
 ### 🔥 Hot News Today
 
@@ -98,7 +108,13 @@ See also the list of [contributors](https://github.com/madawei2699/myGPTReader/c
 
 ## Reference Links <a name = "reference_links"></a>
 
-YouTube Live video for in-depth walkthrough of the project: [![myGPTReader Live Share](http://img.youtube.com/vi/XZIogwFU7jE/0.jpg)](https://www.youtube.com/live/XZIogwFU7jE?feature=share "myGPTReader Live Share")
+- YouTube video for myGPTReader main features showcase
+  
+  [![myGPTReader showcase](http://img.youtube.com/vi/qKS5Wwhrf5E/0.jpg)](https://youtu.be/qKS5Wwhrf5E)
+
+- YouTube Live video for in-depth walkthrough of the project.
+  
+  [![myGPTReader Live Share](http://img.youtube.com/vi/XZIogwFU7jE/0.jpg)](https://www.youtube.com/live/XZIogwFU7jE?feature=share "myGPTReader Live Share")
 
 Blog post: [我的 AI 阅读助手](https://www.bmpi.dev/self/my-gpt-reader/)
 
